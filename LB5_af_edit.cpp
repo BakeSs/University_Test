@@ -16,5 +16,5 @@ int main()
     else if ((x > 0) && (b == 0)) F = (x / (x - c)) + 5.5;
     else F = x / -c;
 
-    cout << endl << " F = " << F << endl;
+    cout << endl << endl << " F = " << F << endl;
 }
