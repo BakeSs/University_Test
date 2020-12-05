@@ -17,5 +17,9 @@ int main()
     else F = x / -c;
 
 	cout << endl;
+	cout << endl;
+	cout << endl;
+	cout << endl;
+	cout << endl;
     cout << " F = " << F << endl;
 }
